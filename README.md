@@ -1,4 +1,4 @@
-# MusicGenreClassification
+# Music Genre Classification
 This project is a part of a research whose aim is to compare 4 different feature extraction methods for music genre classification. Compared methods are spectrum, MFCC, LPCC and fingerprint method. Research was conducted as a part of an Applied physics and electronics seminar in a research station "Petnica".
 Research paper is still in progress, but the current version can be found under the name **"research.pdf"** (unfortunately, it is currently available only in Serbian).
 
