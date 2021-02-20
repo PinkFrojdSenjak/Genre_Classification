@@ -10,4 +10,4 @@ Research results, for GTZAN and NATA database respectively, are shown in the ima
 
 ![Capture](https://user-images.githubusercontent.com/43354887/108545752-7cff0900-72e8-11eb-9af7-5d4bd7961bc3.JPG)
 
-As you can see, the overall best result was achieved with the combination of MFCC and Spectrum (Spektar) features.
+The overall best result was achieved with the combination of MFCC and Spectrum (Spektar) features.
